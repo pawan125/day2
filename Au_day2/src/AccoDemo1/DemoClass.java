@@ -1,7 +1,7 @@
 package AccoDemo1;
 
 import java.util.Scanner;
-
+/*author is pawan*/
 public class DemoClass implements Calculator {
 
 	@Override
